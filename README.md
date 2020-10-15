@@ -1,1 +1,1 @@
-# mygithub
+# MyGitHub
